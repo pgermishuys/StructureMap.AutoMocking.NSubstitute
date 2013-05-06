@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>StructureMap.AutoMocking.NSubstitute</id>
+    <version>1.0.0.0</version>
+    <title>StructureMap NSubstitute AutoMocking implementation</title>
+    <authors>Pieter Germishuys</authors>
+    <owners>Pieter Germishuys</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>https://github.com/pgermishuys/StructureMap.AutoMocking.NSubstitute</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>StructureMap AutoMocking implementation for NSubstitute</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>StructureMap AutoMocking NSubstitute</tags>
+    <dependencies>
+      <dependency id="StructureMap.AutoMocking" version="2.6.4.1" />
+      <dependency id="NSubstitute" version="1.6.0.0" />
+    </dependencies>
+    <references>
+      <reference file="StructureMap.AutoMocking.NSubstitute.dll" />
+    </references>
+</metadata>
+</package>
