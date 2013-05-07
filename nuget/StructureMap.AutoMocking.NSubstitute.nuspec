@@ -6,7 +6,6 @@
     <title>StructureMap NSubstitute AutoMocking implementation</title>
     <authors>Pieter Germishuys</authors>
     <owners>Pieter Germishuys</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
     <projectUrl>https://github.com/pgermishuys/StructureMap.AutoMocking.NSubstitute</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>StructureMap AutoMocking implementation for NSubstitute</description>
