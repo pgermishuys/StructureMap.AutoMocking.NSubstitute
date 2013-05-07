@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>StructureMap.AutoMocking.NSubstitute</id>
+    <id>NSubstitute.StructureMap.AutoMocking</id>
     <version>1.0.0.0</version>
     <title>StructureMap NSubstitute AutoMocking implementation</title>
     <authors>Pieter Germishuys</authors>
