@@ -1,4 +1,4 @@
 StructureMap.AutoMocking.NSubstitute
 ====================================
 
-StructureMap Automocking implementation fro NSubstitute
+StructureMap Automocking implementation for NSubstitute
